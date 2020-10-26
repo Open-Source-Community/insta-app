@@ -1,6 +1,6 @@
 # insta-app
 * this app is sample blog app
-## this app is connected to [Chat app](https://github.com/ahmedsamir9/chat-app) 
+## this app is connected to [Chat app](https://github.com/Open-Source-Community/chat-app) 
 
 ## covered topics :
 * shared preference
